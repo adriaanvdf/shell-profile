@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except for
+README.md
+!.gitignore
+!.bash_profile
+!.profile
+!.bashrc
