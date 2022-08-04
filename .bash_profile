@@ -1,6 +1,3 @@
-# Evaluatie logic in bashrc
-. ~/.bashrc
-
 # Set time format for command history
 HISTTIMEFORMAT='%F %T '
 
